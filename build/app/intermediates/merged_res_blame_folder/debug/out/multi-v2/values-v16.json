@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.attaindanceapp-mergeDebugResources-14:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kul Bahadur Karki\\.gradle\\caches\\transforms-3\\fe3239e012005f5b4ee3b08e39e21d70\\transformed\\core-1.6.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

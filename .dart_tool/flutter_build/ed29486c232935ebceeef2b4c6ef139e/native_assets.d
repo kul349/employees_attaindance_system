@@ -1,0 +1,1 @@
+ C:\\Users\\Kul\ Bahadur\ Karki\\Desktop\\flutter\\attaindanceapp\\.dart_tool\\flutter_build\\ed29486c232935ebceeef2b4c6ef139e\\native_assets.yaml: 
